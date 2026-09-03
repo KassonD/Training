@@ -5,7 +5,7 @@ public class REPL {
     public static void main(String[] args) {
         int option = 0;
         double balance = 0;
-        boolean optionIsValid = true;;
+        boolean optionIsValid = true;
 
         Scanner scan = new Scanner(System.in);
 
